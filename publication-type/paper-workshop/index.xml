@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper-workshop | Aida Afshar</title>
+    <link>https://AidaAfshar.github.io/publication-type/paper-workshop/</link>
+      <atom:link href="https://AidaAfshar.github.io/publication-type/paper-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-workshop</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://AidaAfshar.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>paper-workshop</title>
+      <link>https://AidaAfshar.github.io/publication-type/paper-workshop/</link>
+    </image>
+    
+    <item>
+      <title>Learning rate-Free Reinforcement Learning with Model Selection</title>
+      <link>https://AidaAfshar.github.io/publication/conference-paper3/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://AidaAfshar.github.io/publication/conference-paper3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Reinforcement Learning Approach to Lightning Network Fee Policy</title>
+      <link>https://AidaAfshar.github.io/publication/conference-paper2/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://AidaAfshar.github.io/publication/conference-paper2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
